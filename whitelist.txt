@@ -1,2 +1,1 @@
-arworks.de
-*.arworks.de
+@@||arworks.de^
